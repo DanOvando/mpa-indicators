@@ -1,3 +1,9 @@
+# Custom
+*.Rproj
+data/*
+!data/README
+results/*
+!results/README
 # History files
 .Rhistory
 .Rapp.history
